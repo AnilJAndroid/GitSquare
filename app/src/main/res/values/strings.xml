@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Git Square</string>
+    <string name="txt_plz_wait">Please wait</string>
+    <string name="txt_no_connection">No internet connection !</string>
+</resources>
